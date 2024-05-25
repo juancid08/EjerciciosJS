@@ -1,5 +1,8 @@
 <h1>Ejercicios JavaScript</h1>
+<h3>Índice</h3>
+<p>Muestro un indice con las acticidades dentros de varias cards, en la cual si pinchas te lleva a las actividades.</p>
 
+</br>
 <h3>Ejercicio 2</h3>
 <p>Lo que he hecho basicamente es pedir el radio, y después calcular la longitud,área y volúmen.</p>
 <p>He utilizado de fondo esta foto.</p>
@@ -41,7 +44,7 @@
 <img src="./img/ejercicio8.jpg" alt="imagen de hero section" style="width:35%">
 </br>
 
-<h3>Ejercicio 7</h3>
+<h3>Ejercicio 9</h3>
 <p>Ahora hay un campo select y dependiendo del número que escojas te dice un mes u otro, por ejemplo con el 1 es enero.</p>
 <p>He utilizado de fondo esta foto.</p>
 <img src="./img/ejercicio9.jpg" alt="imagen de hero section" style="width:35%">

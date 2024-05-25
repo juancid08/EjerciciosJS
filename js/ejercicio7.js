@@ -9,7 +9,9 @@ function diviEuclides() {
     let errorDivisor0=  document.getElementById("errorDivisor0");
     errorDividendo.textContent = "";
     errorDivisor.textContent = "";
+    errorDivisor0.textContent="";
     resultado.textContent = "";
+    
 
     const numeros = /^[0-9]\d*$/; 
 
